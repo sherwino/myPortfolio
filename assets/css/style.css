@@ -1,0 +1,37 @@
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+}
+
+img {
+  width: 100%;
+}
+
+.top-nav {
+	display: grid;
+	margin 0 auto;
+	grid-gap: 0.3em;
+	grid-row-gap: 0.5em;
+	grid-auto-rows: 40px;
+	grid-template-columns: repeat(5, 1fr);
+
+}
+
+.top-nav > a{
+	background: #eee;
+	padding: 1em;
+	text-align: center;
+	text-decoration: none;
+}
+
+.top-nav > a:nth-child(odd) {
+	background: #ddd;
+
+
+}
+
+
