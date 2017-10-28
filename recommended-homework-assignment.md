@@ -12,11 +12,11 @@ In this assignment, you'll build a professional portfolio site using HTML/CSS. T
 
 ### Instructions
 
-[x] 1. Create a new repository in GitHub called `Basic-Portfolio`. 
+- [x] 1. Create a new repository in GitHub called `Basic-Portfolio`. 
 
-[x] 2. Clone this repository to your computer using the process we went over in class.
+- [x] 2. Clone this repository to your computer using the process we went over in class.
 
-[x] 3. Navigate to the `Basic-Portfolio` folder that you just cloned onto your machine. Inside this folder, create the following: 
+ - [x] 3. Navigate to the `Basic-Portfolio` folder that you just cloned onto your machine. Inside this folder, create the following: 
 
    * 3 HTML documents: `index.html`, `contact.html` and `portfolio.html`.
    * A folder called `assets`.
