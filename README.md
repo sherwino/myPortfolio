@@ -2,7 +2,7 @@
 
 ### Readme
 
-The .md along with the site is going to be posted on github pages, and it is going to be automatically styled using Jekyll 
+The .md files and the basic html site is going to be posted on github pages, and it is going to be automatically styled using Jekyll 
 
 You can use the [editor on GitHub](https://github.com/sherwino/myPortfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
