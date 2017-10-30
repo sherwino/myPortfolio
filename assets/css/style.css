@@ -68,3 +68,9 @@ img {
 }
 
 
+.sticky-footer {
+    background: #2e8cff;
+    width: 100%;
+    padding: 10px 20px;
+    color: #fff;
+}
